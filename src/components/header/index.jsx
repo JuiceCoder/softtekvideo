@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../../assets/styles/Header.scss';
+import '../../assets/styles/Header.scss';
 
 
 // eslint-disable-next-line import/prefer-default-export

@@ -1,6 +1,6 @@
 /* eslint-disable import/prefer-default-export */
 import React from 'react';
-import '../../../assets/styles/Search.scss';
+import '../../assets/styles/Search.scss';
 
 export const Search = () => {
   return (
