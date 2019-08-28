@@ -1,5 +1,5 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import { Namaste } from "./components/Namaste";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import { Layout } from './containers';
 
-ReactDOM.render(<Namaste />, document.getElementById('app'));
+ReactDOM.render(<Layout />, document.getElementById('app'));
